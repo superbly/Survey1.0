@@ -1,0 +1,157 @@
+@charset "UTF-8";
+@media screen and (max-width: 768px) {
+body {
+		color: #0A3187;
+		background: #E9ECF1;
+		font-family: 'Roboto', sans-serif;
+	}
+    .form-control {
+        min-height: 41px;
+		box-shadow: none;
+		border-color: #e1e4e5;
+	}
+    .form-control:focus {
+		border-color: #5fcaba;
+	}
+    .form-control, .btn {        
+        border-radius: 3px;
+    }    
+    /* 데스크탑에서 사용될 스타일을 먼저 작성합니다. */
+
+
+  
+	.signup-form {
+		width: 290px;
+		margin: 0 auto;
+		padding: 30px 0;
+	}	
+    .signup-form form {
+		color: #0A3187;
+		border-radius: 3px;
+		margin-top: px;
+    	margin-bottom: 120px;
+        background: #fff;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 30px;
+        text-align: center;
+    }
+	.signup-form h2 {
+		color: #333;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .signup-form hr {
+        margin: 0 -30px 20px;
+    }
+	.signup-form .form-group {
+		margin-bottom: 20px;
+	}
+    .signup-form label {
+		font-weight: normal;
+		font-size: 13px;
+	}
+    .signup-form .btn {        
+        font-size: 16px;
+        font-weight: bold;
+		background: #4272d7;
+		border: none;
+		min-width: 90px;
+    }
+	.signup-form .btn:hover, .signup-form .btn:focus {
+		background: #3fc0ad;
+        outline: none !important;
+	}
+	.signup-form a {
+		color: #0A3187;
+		text-decoration: underline;
+	}
+    .signup-form a:hover {
+		text-decoration: none;
+	}
+	.signup-form form a {
+		color: #0A3187;
+		text-decoration: none;
+	}	
+	.signup-form form a:hover {
+		text-decoration: underline;
+	}
+}
+@media screen and (min-width: 769px) {
+  	body {
+		color: #0A3187;
+		background: #E9ECF1;
+		font-family: 'Roboto', sans-serif;
+	}
+    .form-control {
+        min-height: 41px;
+		box-shadow: none;
+		border-color: #e1e4e5;
+	}
+    .form-control:focus {
+		border-color: #5fcaba;
+	}
+    .form-control, .btn {        
+        border-radius: 3px;
+    }    
+    /* 데스크탑에서 사용될 스타일을 먼저 작성합니다. */
+
+
+  
+	.signup-form {
+		width: 400px;
+		margin: 0 auto;
+		padding: 30px 0;
+	}	
+    .signup-form form {
+		color: #0A3187;
+		border-radius: 3px;
+		margin-top: px;
+    	margin-bottom: 120px;
+        background: #fff;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        padding: 30px;
+        text-align: center;
+    }
+	.signup-form h2 {
+		color: #333;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .signup-form hr {
+        margin: 0 -30px 20px;
+    }
+	.signup-form .form-group {
+		margin-bottom: 20px;
+	}
+    .signup-form label {
+		font-weight: normal;
+		font-size: 13px;
+	}
+    .signup-form .btn {        
+        font-size: 16px;
+        font-weight: bold;
+		background: #4272d7;
+		border: none;
+		min-width: 90px;
+    }
+	.signup-form .btn:hover, .signup-form .btn:focus {
+		background: #3fc0ad;
+        outline: none !important;
+	}
+	.signup-form a {
+		color: #0A3187;
+		text-decoration: underline;
+	}
+    .signup-form a:hover {
+		text-decoration: none;
+	}
+	.signup-form form a {
+		color: #0A3187;
+		text-decoration: none;
+	}	
+	.signup-form form a:hover {
+		text-decoration: underline;
+	}
+  	
+}
+}
