@@ -1,0 +1,7 @@
+<!-- USERS TABLE -->
+create table users (
+id varchar2(20) not null,
+name varchar2(20) not null,
+email varchar2(30) not null,
+password varchar2(20) not null
+)
