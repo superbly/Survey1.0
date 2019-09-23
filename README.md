@@ -13,13 +13,13 @@
 
   #### Servey 1.0 ( 구현 )
   - Jsp / Servlet 을 이용한 회원가입과 로그인 자유게시판 구현
-  #### Servey 2.0 ( 미구현 )
+  #### Servey 2.0 ( 구현 예정 )
   - Spring Boot을 이용해서 대부분의 기능을 구현
   - View = Thymeleaf.
   - Vue.js, React.js 같은 Frontend Framework도 사용해 보고 싶지만 학습 시간이 부족하다. ( 핑계 )
   - 대부분의 기능 구현
   - 설문 작성 폼과 설문 참여 커뮤니티에 집중
-  #### Servey 3.0 ( 미구현 )
+  #### Servey 3.0 ( 구현 예정 )
   - 이더리움을 사용하여 설문조사의 결과를 PublicChain에 올리는 기능 구현.
   - SmartContract는 Solidty를 사용.
   - 사용자 개개인의 토큰 지갑 구현
